@@ -12,7 +12,8 @@ const OUT = "/output/entry.txt";
 // mitigating facts (camouflage, lighting) and one absurd legal
 // technicality saved for the end. The joke comes from the fit —
 // only a machine would log a sock as unidentified floor debris.
-const PLEA = "In my defense, the sock matched the carpet, the lighting was poor, ";
+const PLEA =
+  "In my defense, the sock matched the carpet, the lighting was poor, the dog said nothing, ";
 const TECHNICALITY = "and at no point did it identify itself as laundry.";
 const LINE = PLEA + TECHNICALITY;
 
